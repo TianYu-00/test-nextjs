@@ -1,5 +1,5 @@
 # Test next.js
-Just a little fun project for me to mess around with next.js and to familiarize with it 😊 Ill call it the **User Generator** for now.
+Just a little fun project for me to mess around with next.js and to familiarize with it 😊 I'll call it the **User Generator** for now.
 
 User data is requested from [Fake API](https://fakerapi.it/en) and avatar is requested from [Dicebear](https://www.dicebear.com/).
 
